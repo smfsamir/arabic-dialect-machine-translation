@@ -21,6 +21,8 @@ tasks=(
 )
 
 models=(
+    # TODO: add the model for general masked language modelling. 
+
 	# 31M_MSA_checkpoint-2083914_msa_AR_En
 	araT5_binary_msa-da-SUPER-ARLU # dialect classifier
          # TODO: 
